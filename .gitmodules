@@ -7,3 +7,6 @@
 [submodule "pcb/keyswitches.pretty"]
 	path = pcb/keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty
+[submodule "zmk-keyboard-log"]
+	path = zmk-keyboard-log
+	url = https://github.com/wenbang24/zmk-keyboard-log
