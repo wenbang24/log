@@ -19,3 +19,10 @@ Time spent: 4 hrs
 - Routed PCB
 ![image](img/schematicv1.png)
 ![image](img/pcbv1.png)
+
+Time spent: 4 hrs
+
+# July 13 2025
+- Made ZMK firmware for the board
+
+Time spent: 2 hrs
