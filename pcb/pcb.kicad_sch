@@ -8511,7 +8511,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "415881fc-c0ef-46ff-8bac-f0c7f4ae2835")
+			(uuid "415881fc-c0ef-46ff-8bac-f0c7f4ae2836")
 		)
 		(instances
 			(project ""
@@ -9347,6 +9347,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 270.51 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C720477"
 			(at 270.51 33.02 0)
 			(effects
 				(font
