@@ -24,5 +24,7 @@ Time spent: 4 hrs
 
 # July 13 2025
 - Made ZMK firmware for the board
+- Redid the PCB for 17x17 CFX spacing
+![image](img/pcbv2.png)
 
-Time spent: 2 hrs
+Time spent: 5 hrs
