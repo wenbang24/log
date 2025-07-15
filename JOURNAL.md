@@ -28,3 +28,16 @@ Time spent: 4 hrs
 ![image](img/pcbv2.png)
 
 Time spent: 5 hrs
+
+# July 15 2025
+- Added mounting holes
+- Made a rudimentary case
+- Spent way too long researching heat-set inserts and batteries
+
+![image](img/pcbv2_1.png)
+![image](img/pcbv2_2.png)
+![image](img/pcbv2_3.png)
+![image](img/casev1_1.png)
+![image](img/casev1_2.png)
+
+Time spent: 4 hrs
