@@ -34,9 +34,10 @@ Time spent: 5 hrs
 - Made a rudimentary case
 - Spent way too long researching heat-set inserts and batteries
 
-![image](img/pcbv2_1.png)
-![image](img/pcbv2_2.png)
-![image](img/pcbv2_3.png)
+![image](img/schematicv1.1.png)
+![image](img/pcbv2.1_1.png)
+![image](img/pcbv2.1_2.png)
+![image](img/pcbv2.1_3.png)
 ![image](img/casev1_1.png)
 ![image](img/casev1_2.png)
 
@@ -49,7 +50,8 @@ Time spent: 4 hrs
 - Add a hole for the USB-C port
 
 ![image](img/render.png)
-![image](img/pcbv2.2.png)
+![image](img/pcbv2.2_1.png)
+![image](img/pcbv2.2_2.png)
 ![image](img/casev1.1.png)
 
 Time spent: 3 hrs
