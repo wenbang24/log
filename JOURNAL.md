@@ -41,3 +41,7 @@ Time spent: 5 hrs
 ![image](img/casev1_2.png)
 
 Time spent: 4 hrs
+
+# July 16 2025
+- Rendered
+- BOM'ed
