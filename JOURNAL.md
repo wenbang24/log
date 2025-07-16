@@ -44,4 +44,12 @@ Time spent: 4 hrs
 
 # July 16 2025
 - Rendered
-- BOM'ed
+- Researched & BOM'ed
+- Add a lil' smth to the pcb :)
+- Add a hole for the USB-C port
+
+![image](img/render.png)
+![image](img/pcbv2.2.png)
+![image](img/casev1.1.png)
+
+Time spent: 3 hrs
