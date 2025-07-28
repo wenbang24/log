@@ -55,3 +55,13 @@ Time spent: 4 hrs
 ![image](img/casev1.1.png)
 
 Time spent: 3 hrs
+
+# July 26 2025
+- Added prod folder
+- Made some way better renders
+
+![image](img/render2_1.png)
+![image](img/render2_2.png)
+![image](img/render2_3.png)
+
+Time spent: 1 hr

@@ -1,6 +1,6 @@
 # Log
 A low-profile, wireless, portable rendition of the OLKB Planck keyboard.
-![image](img/render.png)
+![image](img/render2_2.png)
 
 # Firmware
 Log uses [ZMK](https://zmk.dev/) for its firmware. The firmware is available in the `zmk-keyboard-log` sub-repo.
