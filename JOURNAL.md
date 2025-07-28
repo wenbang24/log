@@ -5,6 +5,8 @@ description: "A low-profile rendition of the OLKB Planck for portability"
 created_at: "2025-06-15"
 ---
 
+Total time spent so far: 21 hrs
+
 # July 9 2025
 Finished my other projects so I can start work on this one (lol)
 - Researched parts, form factor, controller, etc.
