@@ -21,6 +21,6 @@ Total: $67.83
 
 (prices converted from AUD to USD, as of 2025-07-16)
 
-PCB & PCBA cost: $21.21
+PCB & PCBA cost: $29.34
 
-**TOTAL: $89.04**
+**TOTAL: $97.17**
